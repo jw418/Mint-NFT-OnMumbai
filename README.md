@@ -1,3 +1,5 @@
+Mint a NFT on Mumbai testnet with NFT.strorage
+
 Metadata stored on Filecoin and IPFS with URL: ipfs://bafyreibxidunkrugtcfckodstcehn5tur32frgyx6yzb6qcl5mbnhyfn7q/metadata
 
 Contract deployed to address: 0xac37016103cD68f8E2ba7762771795dB16E4b96F
